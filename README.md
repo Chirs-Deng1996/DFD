@@ -1,2 +1,2 @@
 # DFD
-here is the place that i will store some C++ codes of my algorithm exercise
+Here is my personal repository to store some aglorithm solving some exersice on the Luogu
